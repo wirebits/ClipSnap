@@ -22,7 +22,6 @@ while True:
     if clipboard_image:
         image_name = os.path.join(folder_name, f"image{image_count}_{timestamp}.png")
         clipboard_image.save(image_name)
-        print(f"Image saved: {image_name}")
         image_count += 1
     else:
         sys.exit()
