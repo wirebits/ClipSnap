@@ -16,7 +16,7 @@ The testing is going on different systems.<br>
 Note : It is working on GUI Operating Systems only, not CLI Operating Systems.
 
 <h1>Install and Run</h1>
-1. Download or Clone the Code.<br>
+1. Download or Clone the Repository.<br>
 2. Open the folder and run the <i>ClipSnap.py</i> file.
 
 <h1>Key Features</h1>
